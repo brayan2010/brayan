@@ -1,0 +1,23 @@
+Perfil Profesional
+Ingeniero de Sistemas radicado en la ciudad de Bucaramanga, Santander. Cuenta con una
+sólida trayectoria de aproximadamente nueve años como desarrollador Backend,
+desempeñándose actualmente como Software Expert I en el sector financiero, específicamente
+en BBVA Colombia.
+Su experiencia profesional se centra en el mantenimiento y modernización de sistemas críticos,
+con un enfoque especializado en plataformas de legado y empresariales. Posee un dominio
+avanzado en el ecosistema IBM AS/400 (IBM i) y Mainframe, con amplia experiencia en
+lenguajes y herramientas como COBOL, RPG, CL y Control-M.
+Adicionalmente, complementa su perfil técnico con el uso de tecnologías modernas para la
+automatización de procesos, tales como Python y PowerShell, y se encuentra avanzando en su
+formación académica a través de una especialización en Ingeniería de Software, con énfasis en
+la Gestión y Dirección de Proyectos de Software bajo lineamientos PMI.
+Categoría Detalles
+
+Ubicación Bucaramanga, Santander, Colombia
+Títulos / Formación Ingeniero de Sistemas / Especialización en
+
+curso en Ingeniería de Software
+Rol Actual Software Expert I (Sector Financiero)
+Plataformas de SW IBM AS/400 (IBM i), Mainframe, COBOL,
+
+RPG, CL, Python, PowerShell
