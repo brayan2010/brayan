@@ -1,0 +1,41 @@
+Buenas noches,
+mi nombre es Angel Rivera
+
+Estoy radicado en la ciudad de Armenia, Quindío
+
+Soy Ingeniero de Sistemas
+Actualmente me desempeño como Data Engineer
+
+Stack tecnológico y herramientas
+
+[Control de versiones]
+
+Git / GitHub
+
+[Bases de datos y motores SQL]
+
+PostgreSQL
+DuckDB
+BigQuery
+
+[Lenguajes y análisis de datos]
+
+DAX (Data Analysis Expressions)
+
+[Programación]
+
+Python
+
+[Visualización y reporting]
+
+Power BI
+Metabase
+
+[Analítica web]
+
+Google Analytics
+
+[Cloud Computing]
+
+Amazon Web Services (AWS)
+Google Cloud Platform (GCP)
